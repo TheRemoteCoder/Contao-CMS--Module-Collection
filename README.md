@@ -9,8 +9,6 @@
 
 ---
 
-[![GitHub release](https://img.shields.io/github/release/TheRemoteCoder/Contao-Module-Collection.svg)](https://github.com/TheRemoteCoder/Contao-Module-Collection/releases)
-
 <br>
 
 
