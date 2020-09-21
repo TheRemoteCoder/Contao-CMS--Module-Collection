@@ -1,6 +1,6 @@
 ![Preview](preview.png)
 
-# Contao CMS - Module collection
+# Contao CMS
 
 - [About](#about)
 - [How to use](#how-to-use)
