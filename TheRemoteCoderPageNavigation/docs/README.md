@@ -1,4 +1,4 @@
-# TheRemoteCodertElements / Readme
+# TheRemoteCoderElements / Readme
 
 - [About](#about)
 - [How to use](#how-to-use)
