@@ -5,7 +5,6 @@
 - [About](#about)
 - [How to use](#how-to-use)
 - [Modules](#modules)
-- [License »](/LICENSE.md)
 
 <br>
 
@@ -26,7 +25,7 @@ A collection of small and easy-to-use modules for the Contao OpenSource CMS from
 
 ## How to use
 
-Refer to each modules own unique readme document. You will also find screenshots and system requirements.
+Refer to each module own unique readme document. You will also find screenshots and system requirements.
 
 
 <br><br>
@@ -43,7 +42,7 @@ Module features. The numbers behind the titles represent compatible Contao versi
 
 ### TheRemoteCoderFormListInfo (2-3+)
 
-- Show more details in form overview - like email, subject and template.
+- Show more details in form overview – like email, subject and template.
 - Also works with the EFG module (Extended Form Generator).
 - [Readme »](/TheRemoteCoderFormListInfo/docs/README.md)
 
@@ -54,6 +53,6 @@ Module features. The numbers behind the titles represent compatible Contao versi
 
 ### TheRemoteCoderPageNavigation (3+)
 
-- Extend site structure to allow hiding single pages in custom menues from the templates.
+- Extend site structure to allow hiding single pages in custom menus from the templates.
 - [Readme »](/TheRemoteCoderPageNavigation/docs/README.md)
 
