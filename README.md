@@ -1,10 +1,10 @@
-![Preview](preview.png)
+![Contao CMS – Module collection](teaser.png)
 
 # Contao CMS
 
 - [About](#about)
+- [Features](#modules)
 - [How to use](#how-to-use)
-- [Modules](#modules)
 
 <br>
 
@@ -23,16 +23,11 @@ A collection of small and easy-to-use modules for the Contao OpenSource CMS from
 
 <br><br>
 
-## How to use
+## Features
 
-Refer to each module own unique readme document. You will also find screenshots and system requirements.
+**Contao Modules**
 
-
-<br><br>
-
-## Modules
-
-Module features. The numbers behind the titles represent compatible Contao versions.
+The numbers behind the titles represent compatible Contao versions.
 
 ### TheRemoteCoderContentElements (2+)
 
@@ -55,4 +50,11 @@ Module features. The numbers behind the titles represent compatible Contao versi
 
 - Extend site structure to allow hiding single pages in custom menus from the templates.
 - [Readme »](/TheRemoteCoderPageNavigation/docs/README.md)
+
+
+<br><br>
+
+## How to use
+
+Refer to each module own unique readme document. You will also find screenshots and system requirements.
 
