@@ -23,7 +23,7 @@ Extend some default Contao CMS elements that cannot be extended by DCA modificat
 - See Screenshot: `textColumnSettings.png`
 
 
-### Examples
+## Examples
 
 ![Add image teaser](screenshots/addImageTeaser-de.png)
 
