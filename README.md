@@ -33,23 +33,23 @@ The numbers behind the titles represent compatible Contao versions.
 
 - Extend text content element with column width setting.
 - Extend accordion content element with teaser image.
-- [Readme »](/TheRemoteCoderContentElements/docs/README.md)
+- [Readme »](/src/TheRemoteCoderContentElements/docs/README.md)
 
 ### TheRemoteCoderFormListInfo (2-3+)
 
 - Show more details in form overview – like email, subject and template.
 - Also works with the EFG module (Extended Form Generator).
-- [Readme »](/TheRemoteCoderFormListInfo/docs/README.md)
+- [Readme »](/src/TheRemoteCoderFormListInfo/docs/README.md)
 
 ### TheRemoteCoderFormTooltipTitle (3+)
 
 - Add a custom title to form elements in the frontend (intended to be used as styled tooltip).
-- [Readme »](/TheRemoteCoderFormTooltipTitle/docs/README.md)
+- [Readme »](/src/TheRemoteCoderFormTooltipTitle/docs/README.md)
 
 ### TheRemoteCoderPageNavigation (3+)
 
 - Extend site structure to allow hiding single pages in custom menus from the templates.
-- [Readme »](/TheRemoteCoderPageNavigation/docs/README.md)
+- [Readme »](/src/TheRemoteCoderPageNavigation/docs/README.md)
 
 
 <br><br>
