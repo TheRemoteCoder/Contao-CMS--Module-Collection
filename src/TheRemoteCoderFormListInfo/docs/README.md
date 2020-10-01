@@ -12,6 +12,7 @@
 Adds most important form settings to the overview list, which is especially helpful for development and QA checks. Works with and without installation of the EFG module (Extended Form Generator).
 
 
+<br><br>
 
 ## Examples
 
