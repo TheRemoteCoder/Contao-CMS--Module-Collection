@@ -1,6 +1,7 @@
 # TheRemoteCoderContentElements
 
 - [About](#about)
+- [Examples](#examples)
 - [How to use](#how-to-use)
 
 ---
@@ -20,6 +21,13 @@ Extend some default Contao CMS elements that cannot be extended by DCA modificat
 
 - Added an option to set the elements width for multi-column layouts. Requires custom template modification.
 - See Screenshot: `textColumnSettings.png`
+
+
+## Examples
+
+![Add image teaser](screenshots/addImageTeaser-de.png)
+
+![Text column settings](screenshots/textColumnSettings-de.png)
 
 
 <br><br>
